@@ -1,7 +1,6 @@
 Name: Osher Daniel
 ID: 205602006
-URL: https://web-development-environments-2021.github.io/assignment1-osherdaniel/
-
+URL: https://web-development-environments-2021.github.io/205602006/.
 The site I built is about my husband's grandmother who is very important and loved by me.
 The site contains:
 	1. Information about her life and photos from the past and of her family
